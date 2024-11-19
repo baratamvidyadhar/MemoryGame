@@ -5,4 +5,6 @@ Future Implementation:
 1)Will Add the multiple player functionality.
 2)Game Levels
 
-#contributors can reach out to me for collaborate to implement
+
+If solution import is failing try import .msapp directly
+#contributors can reach out to me for collaboration
